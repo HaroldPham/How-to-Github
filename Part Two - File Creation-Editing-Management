@@ -1,12 +1,12 @@
 In that Repository, you'll have the option of adding files into it, and when you do you'll be led to a HTML like setting where you can type stuff out.
-  - When you create a file, you can add an extension to the end of it so that when you export it, the file will be compatible with whatever program you're running.
-     . For Eclipse the file name should be "name.java"
+  . When you create a file, you can add an extension to the end of it so that when you export it, the file will be compatible with whatever program you're running.
+     - For Eclipse the file name should be "name.java"
 
 To edit a file, you need to press the pencil icon on the right side of the screen to access it and change things.
-  - Once you've finished editting the file, scroll to the bottom and fill in the boxes with the changes you've done.
-    . There will be two selections, "Commit directly to the master branch" which is to edit the changes directly into the file 
+  . Once you've finished editting the file, scroll to the bottom and fill in the boxes with the changes you've done.
+    - There will be two selections, "Commit directly to the master branch" which is to edit the changes directly into the file 
       or "Create a new branch for this commit and start a pull request" which is to make a new branch of your work. You should create a new branch 
       if you're working with others and commit to the master branch if you're working alone.
       
-  - If you created a new branch, that means that your changes haven't been made official in the file yet, but is instead pending for review by the main owner of the Repository
+  . If you created a new branch, that means that your changes haven't been made official in the file yet, but is instead pending for review by the main owner of the Repository
     who will merge the branches if they find it suitable. To locate your branch, go to the pull request tab in the Repository.
